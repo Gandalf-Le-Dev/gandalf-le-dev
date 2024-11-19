@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">📚 I'm currently learning <a href="https://ziglang.org/">Zig</a> and <a href="https://github.com/floooh/sokol">Sokol</a> <br><br>🎯 Goals: Create my own game framework to create a small arena roguelite<br><br>🎲 Fun fact: I have tried so many things that my friends are calling me Gandalf Le Dev</p>
+<p align="left">📚 I'm currently learning graphics rendering <br><br>🎯 Goals: Create my own game dev tools</p>
 
 ###
 
