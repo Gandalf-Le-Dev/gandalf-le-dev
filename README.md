@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">📚 I'm currently learning graphics rendering <br><br>🎯 Goals: Create my own game dev tools</p>
+<p align="left">📚 I'm currently learning orchestration with nomad and docker <br><br>🎯 Goals: To be determined ...</p>
 
 ###
 
